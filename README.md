@@ -2,7 +2,7 @@
 <h2>Description</h2>
 Detecting Lumma Stealer Malware Activity
 
-Overview
+
 An alert was generated from an endpoint exhibiting **abnormal network behavior**, suggesting potential **info-stealer malware activity**.
 
 To investigate the incident, I analyzed the contents of the **PCAP file** to determine the nature of the communication and identify any potential **Indicators of Compromise (IOCs)**.
