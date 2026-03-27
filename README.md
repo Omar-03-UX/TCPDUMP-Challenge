@@ -171,8 +171,6 @@ sudo tcpdump -nn -A -r tcpdump_challenge.pcap host 149.154.167.99
 <h2> Utilities Used</h2>
 - <b>VM WORKSTATION</b> 
 
-<h2>Program walk-through:</h2>
-
 <p align="center">
  <br/>
 <br /> <img src="https://i.imgur.com/lJPRXaK.png" height="80%" width="80%" alt="Protocol"/>
