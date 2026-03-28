@@ -180,5 +180,5 @@ sudo tcpdump -nn -A -r tcpdump_challenge.pcap host 149.154.167.99
 <br />
 <img src="new 2.jpg" height="80%" width="80%" alt="Source"/>
 <br /> 
-<img src="https://i.imgur.com/7BgyOzb.png" height="80%" width="80%" alt="Source"/>
+<img src="new 4.jpg" height="80%" width="80%" alt="Source"/>
 <br />
