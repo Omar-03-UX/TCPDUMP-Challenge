@@ -175,7 +175,7 @@ sudo tcpdump -nn -A -r tcpdump_challenge.pcap host 149.154.167.99
  <br/>
 <br /> <img src="new  3.jpg" height="80%" width="80%" alt="Protocol"/>
 <br />
-<img src="https://i.imgur.com/Ubjwyhk.png" height="80%" width="80%" alt="Protocol"/>
+<img src="new 1.jpg" height="80%" width="80%" alt="Protocol"/>
 <br />
 <br />
 <img src="https://i.imgur.com/2B4nkiE.png" height="80%" width="80%" alt="Source"/>
